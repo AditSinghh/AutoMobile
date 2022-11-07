@@ -1,0 +1,24 @@
+// var app = express();
+
+// app.post('/testOracleapi', function (req, res) {
+// console.log("inside test apiiiiiiiiiiiiiiiiiiiiiiiiiiii")
+
+//   const options = {
+//     method: 'POST',
+//     uri: 'https://fa-esbc-dev7-saasfademo1.ds-fa.oraclepdemos.com/fscmRestApi/resources/11.13.18.05/receivablesInvoices',
+//     body: req.body,
+//     json: true,
+//     headers: {
+//       'Content-Type': 'application/json',
+//       'Authorization': 'Basic Q2FzZXkuQnJvd246V2VsY29tZUAxMjM='
+//     }
+//   }
+
+//   console.log(options,">>>>>>>>>>>>>>>>>>")
+//   request(options).then(function (response) {
+//     res.send(response);
+//   })
+//     .catch(function (err) {
+//       // console.log(err.body);
+//     })
+// })

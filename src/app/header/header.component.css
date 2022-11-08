@@ -1,0 +1,25 @@
+/* header{
+    border-color: blue;
+    padding: 0;
+    border-bottom: 1px solid red;
+} */
+.navbar-brand{
+    font-weight: bold;
+}
+.navbar navbar-expand{
+    background-color:transparent;
+}
+.navbar ul li { 
+	padding: 0px 80px; 
+ }
+.logo{
+    height: 40px;
+    width: 76px;
+    color: white;
+    
+}
+.collapse {
+ font-style: italic;
+ color: black;
+font-weight: bold;}
+

@@ -1,0 +1,8 @@
+{
+    "/testOracleapiget": {
+        "target": "http://localhost:3000/testOracleapiget",
+        "secure":true,
+        "changeOrigin":true,
+        "logLevel":"debug"
+    }
+}

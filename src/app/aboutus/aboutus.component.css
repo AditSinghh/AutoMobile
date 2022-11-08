@@ -1,0 +1,57 @@
+body {
+
+    margin: 0px;
+  height: 100%;
+    padding: 0;
+
+    
+
+}
+
+
+
+#ABOUT{
+
+    float:right;
+    background-image:url(../../assets/honda_civic.jpg);
+    background-size: cover;
+    /* height: 1000vh;
+    width: 100%; */
+    background-repeat: no-repeat;
+    top: 60%;
+    height: fit-content;
+    left: 70%;
+
+
+
+}
+
+h1{
+
+    padding-top: 20px;
+
+    font-weight: bold;
+
+    text-align: center;
+
+}
+
+p{
+
+font-weight: bold;
+
+}
+
+
+
+.u-section-2 .u-text-2 {
+
+    font-size: 5.9375rem;
+
+    font-family: Lalezar;
+
+    line-height: 0.8;
+
+    margin: 10px 0 0;
+
+}
